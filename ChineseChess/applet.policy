@@ -1,0 +1,5 @@
+keystore "RanWind.store","JKS";
+grant signedBy "RanWind"
+{
+permissionjava.security.AllPermission;
+};
